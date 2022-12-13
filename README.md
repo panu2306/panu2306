@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranav Bhendawade. I am currently pursuing Master's in Computer Science and Engineering at Santa Clara University, Caifornia, USA. 
-- 👀 I’m interested in provision, configuring, and managing the infrastructure required to run the large scale applications by using automated scripts. My goal is to work in environment where automation is the priority, though application functionality or a infrastructure setup.   
+- 👀 I’m interested in provisioning, configuring, and managing the infrastructure required to run the large scale applications by using automated scripts. My goal is to work in environment where automation is the priority, though application functionality or a infrastructure setup.   
 - 🌱 I’m currently engaged in deeply understanding the Kubernetes - Container Orchestrator Platform and practising various coding problems on leetcode. 
 - 💞️ I’m looking to work as an Intern for the Summer 2023. I am open for the new opportunities. 
 - 📫 How to reach me ...
