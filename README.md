@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Bhendawade</h1>
 <h3 align="center">A passionate Backend Engineer from San Francisco Bay Area, USA.</h3>
 
-- 🌱 I’m currently learning **about Distributed Systems.**
+- 🌱 I’m currently learning **about Distributed Systems & System Design.**
 
 - 👨‍💻 All of my projects are available at [https://panu2306.github.io/](https://panu2306.github.io/)
 
