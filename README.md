@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Bhendawade</h1>
-<h3 align="center">A passionate Backend Engineer from San Francisco Bay Area, USA.</h3>
+<h3 align="center">A passionate Software/DevOps/SRE Engineer from San Francisco Bay Area, USA.</h3>
 
 - 🌱 I’m currently learning **about Distributed Systems & System Design.**
 
