@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **prnavbhendawade@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1o5fZI6Jj26cRsoWFrT-uX_UzD_Ey0Fp6/view?usp=drive_link)
+- 📄 Know about my skills and experiences : [Resume](https://drive.google.com/drive/folders/19urPr3r3WyeNhRj93-0xnIVDWjA4I7KT)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
